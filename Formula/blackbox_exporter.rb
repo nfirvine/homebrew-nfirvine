@@ -1,3 +1,4 @@
+# this actually doesn't work very well for pings: blackbox_exporter needs root on macOS to use IMCP :(
 VERSION = "0.16.0"
 TAG = "v#{VERSION}"
 
